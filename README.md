@@ -1,0 +1,1 @@
+Phone Case Studio is a sample website that helps you explore the power of HTML and CSS. With a clear design and essential pages like Home, About, and Products, it’s not just informative but also inspires creativity. This project is suitable for anyone who wants to practice coding or start designing their own websites.
